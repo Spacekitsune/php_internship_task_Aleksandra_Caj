@@ -1,0 +1,21 @@
+[
+    {
+      "id": 101,
+      "status": "user"      
+    },
+
+    {
+        "id": 102,
+        "status": "user"      
+      },
+
+      {
+        "id": 103,
+        "status": "user"      
+      },
+
+    {
+        "id": 501,
+        "status": "admin"        
+      }
+]
